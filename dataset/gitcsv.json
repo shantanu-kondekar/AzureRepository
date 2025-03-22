@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "HttpServerLocation",
-				"relativeUrl": "AzureRepository/refs/heads/main/stu.csv"
+				"relativeUrl": "AzureRepository/refs/heads/main/"
 			}
 		}
 	}
